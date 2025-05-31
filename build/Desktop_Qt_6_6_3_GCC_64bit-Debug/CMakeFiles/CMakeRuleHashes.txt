@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+47235198f8e0b94ed399ea74a8ef73a5 .qt_plugins/Qt6_QmlPlugins_Imports_droniada3.cmake
+62dbdbf89de7d088c3c50d186bb343e0 CMakeFiles/droniada3_autogen
+62dbdbf89de7d088c3c50d186bb343e0 CMakeFiles/droniada3_autogen_timestamp_deps
+62dbdbf89de7d088c3c50d186bb343e0 CMakeFiles/droniada3_qmlimportscan
+0a82823dfdd49aaf31f2492f54796068 droniada3_autogen/EWIEGA46WW/qrc_resources.cpp
+9b5d6e54985e1a81c627eadd06e872d4 droniada3_autogen/timestamp

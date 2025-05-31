@@ -1,0 +1,9 @@
+-rootPath
+/home/wiktoro/Studia/QT/droniada3
+-cmake-output
+-output-file
+/home/wiktoro/Studia/QT/droniada3/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_droniada3.cmake
+-importPath
+/home/wiktoro/Studia/QT/droniada3/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-importPath
+/home/wiktoro/Qt/6.6.3/gcc_64/./qml

@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3270dccd33e448e36bb2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "droniada3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "droniada3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-droniada3-Debug-8da7a00a4a5ee57f6a1b.json",
+					"name" : "droniada3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "droniada3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-droniada3_autogen-Debug-6403500f35e7666625af.json",
+					"name" : "droniada3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "droniada3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-droniada3_autogen_timestamp_deps-Debug-5011b587bea51c6738f3.json",
+					"name" : "droniada3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "droniada3_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-droniada3_qmlimportscan-Debug-86a9ff8049be3fce64d7.json",
+					"name" : "droniada3_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wiktoro/Studia/QT/droniada3/build/Desktop_Qt_6_6_3_GCC_64bit-Debug",
+		"source" : "/home/wiktoro/Studia/QT/droniada3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

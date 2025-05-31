@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/droniada3">
+    <file alias="qmldir">/home/wiktoro/Studia/QT/droniada3/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/droniada3/qmldir</file>
+  </qresource>
+</RCC>
+

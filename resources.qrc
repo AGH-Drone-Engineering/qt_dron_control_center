@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pin.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
