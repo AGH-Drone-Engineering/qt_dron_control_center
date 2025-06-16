@@ -19,20 +19,21 @@ Aplikacja napisana w Qt (C++) służąca do odbioru telemetrii z wielu dronów (
 - GUI – QML lub QtWidgets (opcjonalne)
 
 ---
-
+## 🔧 Użycie
+Polecam używać aplikacji za pomocą Qt Creatora, dla ambitnych jest możliwość skompilowania aplikacji co zostało opisane poniżej.
 ## 🧱 Budowanie aplikacji
 
-### 🔧 Wymagania
+### Wymagania
 
 - Qt 5.15+ lub Qt 6.x
 - CMake 3.14+
 - Kompilator C++ z obsługą C++17
 
-### 📦 Kroki
+### Kroki
 
 ```bash
-git clone https://github.com/twoj-projekt/qt-drone-telemetry.git
-cd qt-drone-telemetry
+git clone https://github.com/AGH-Drone-Engineering/qt_dron_control_center.git
+cd qt_dron_control_center
 
 mkdir build
 cd build
@@ -40,4 +41,4 @@ cd build
 cmake ..
 make -j$(nproc)
 
-./qt-drone-telemetry
+./droniada3
